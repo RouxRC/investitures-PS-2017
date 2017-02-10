@@ -1,0 +1,396 @@
+département,circonscription,nom
+01,3,Géraldine SACCHI
+02,3,Jean-Louis BRICOUT
+03,1,Magali ALEXANDRE
+03,2,Nicolas BRIEN
+04,1,Delphine BAGARRY
+04,2,Christophe CASTANER
+05,1,Karine BERGER
+06,2,Pierre Marie CARLIER
+06,5,Chaama GRAILLAT
+07,1,Pascal TERRASSE
+07,2,Olivier DUSSOPT
+07,3,Sabine BUIS
+08,2,Christophe LEONARD
+08,3,Didier HERBILLON
+09,1,Martine ESTEBAN
+09,2,Alain FAURE
+10,1,Emmanuel PROVIN
+10,2,Audrey AIT KEDDACHE
+10,3,David BLANCHON
+11,1,Alain GINIES
+11,2,Marie-Hélène FABRE
+11,3,André VIOLA
+12,1,Sarah VIDAL
+12,2,Bertrand CAVALERIE
+13,1,Gaëlle LENFANT
+13,1,Gérard OREGGIA
+13,2,Annie LEVY-MOZZICONACCI
+13,2,Isabelle ROVARINO
+13,3,Anne DI MARINO
+13,4,Jean-David CIOT
+13,4,Patrick MENNUCCI
+13,5,Marie-Arlette CARLOTTI
+13,6,Nora MEBAREK
+13,7,Henri JIBRAYEL
+13,9,Stéphanie HARKANE
+14,1,Eric VEVE
+14,2,Laurence DUMONT
+14,4,Xavier MADELAINE
+15,1,Alain CALMETTE
+16,1,Martine PINVILLE
+16,2,Marianne REYNAUD
+16,3,Jérôme LAMBERT
+17,3,Françoise MESNARD
+17,4,Fabienne DUGAS RAVENEAU
+18,1,Céline BEZOUI
+18,2,Agnès SINSOULIER
+18,3,Yann GALUT
+19,1,Bernard COMBES
+19,2,Philippe NAUCHE
+20,1,Emmanuelle DE GENTILI
+21,1,Sladana ZIVKOVIC
+21,2,Pierre PRIBETICH
+22,1,Michel LESAGE
+22,2,Viviane LE DISSEZ
+22,4,Annie LE HOUÉROU
+22,5,Corinne ERHEL
+23,1,Michel VERGNIER
+24,1,Michel MOYRAND
+24,3,Colette LANGLADE
+24,4,Benjamin DELRIEUX
+25,1,Barbara ROMAGNAN
+25,4,Frédéric BARBIER
+26,1,Jean-Pierre VEYRET
+26,2,Isabelle MALRIC
+26,3,Pascale ROCHAS
+26,4,Pierre JOUVET
+27,2,Jean-Louis DESTANS
+27,3,Marie-Claire HAKI
+27,5,Martine SEGUELA
+28,1,Stéphane CORDIER
+28,2,Nadia FAVERIS
+28,4,Fabien VERDIER
+29,1,Jean-Jacques URVOAS
+29,2,Patricia ADAM
+29,4,Gwenegan BUI
+29,5,Chantal GUITTET RAISON
+29,6,Richard FERRAND
+29,7,Florence CROM
+29,8,Michaël QUERNEZ
+30,1,Françoise DUMAS
+30,2,Katy GUYOT
+30,3,Catherine EYSSERIC
+30,4,Fabrice VERDIER
+30,5,Nelly FRONTANAU
+31,0,Kader ARIF
+31,1,Catherine LEMORTON
+31,2,Gérard BAPT
+31,3,Isabelle HARDY
+31,4,Martine MARTINEL
+31,5,Sandrine FLOUREUSSES
+31,6,Camille POUPONNEAU
+31,7,Marie-Caroline TEMPESTA
+31,8,Joel AVIRAGNET
+31,9,Christophe BORGEL
+32,1,Francis DUPOUEY
+32,2,Gisèle BIEMOURET
+33,1,Michèle LACOSTE
+33,1,Sandrine DOUCET
+33,2,Catherine VEYSSY
+33,3,Naima CHARAI
+33,4,Alain DAVID
+33,5,Pascale GOT
+33,6,Marie RECALDE
+33,7,Bernard GARRIGOU
+33,9,Gilles SAVARY
+34,2,Anne Yvonne LE DAIN
+34,3,Fanny DOMBRE COSTE
+34,4,Frédéric ROIG
+34,5,Marie PASSIEUX
+34,7,Sébastien DENAJA
+34,8,Christian ASSAF
+34,9,Patrick VIGNAL
+35,1,Marie-Anne CHAPDELAINE
+35,2,Gaelle ANDRO
+35,3,François ANDRE
+35,4,Franck PICHOT
+35,5,Stéphane LENFANT
+35,6,Evelyne GAUTIER LE BAIL
+35,7,Alexandra THIERRY
+35,8,Emmanuel COUET
+36,2,Isabelle BRUNEAU
+37,1,Jean Patrick GILLE
+37,2,Isabelle GAUDRON
+37,3,Marisol TOURAINE
+37,4,Laurent BAUMEL
+38,0,Joelle HUILLIER
+38,1,Olivier VERAN
+38,2,Pierre VERRI
+38,3,Michel DESTOT
+38,4,Marie-Noelle BATTISTEL
+38,5,Eliane GIRAUD
+38,7,Monique LIMON CHARPONAY
+38,8,Erwann BINET
+39,1,Marc-Henri DUVERNET
+39,3,Françoise BARTHOULOT
+40,1,Renaud LAGRAVE
+40,2,Christine BASLY LAPEGUE
+40,3,Boris VALLAUD
+41,1,Denys ROBILIARD
+41,2,Didier GUENIN
+42,1,Régis JUANICO
+42,3,Philippe KIZIRIAN
+42,4,Laurence JUBAN
+42,5,Brigitte DUMOULIN
+43,1,Fabrice FARISON
+43,2,Josiane MIALON
+44,0,Sophie ERRANTE
+44,2,Alain ROBERT
+44,3,Karine DANIEL
+44,4,Dominique RAIMBOURG
+44,5,Michel MENARD
+44,6,Yves DANIEL
+44,7,Anne BOYE
+44,8,Laurianne DENIAUD
+45,1,Olivier JOUIN
+45,4,Jalila GABORET
+45,5,Thierry STROMBONI
+45,6,Valérie CORRE
+46,2,Vincent LABARTHE
+47,1,Lucette LOUSTEAU
+47,2,Matthias FEKL
+47,3,Guillaume MOLIERAC
+49,1,Luc BELOT
+49,4,Meriem BABA
+49,5,Laurence ADRIEN BIGEON
+49,6,Serge BARDY
+49,7,Sylvie CAMARA TOMBINI
+50,3,Stéphane TRAVERT
+51,1,Alexandre TUNC
+51,2,Imane MANIANI
+51,3,Hadhoum BELAREDJ TUNC
+51,4,Rudy NAMUR
+51,5,Linda MUNSTER
+52,2,Antoine DESFRETIER
+54,1,Chaynesse KHIROUNI
+54,2,Hervé FERON
+54,3,Christian ECKERT
+54,5,Dominique POTIER
+55,1,Arnaud MAC FARLANE
+55,2,Jean-Louis DUMONT
+56,2,Stéphanie LE SQUER
+56,5,Gwendal ROUILLARD
+57,1,Aurélie FILIPETTI
+57,2,Jean Michel TOULOUZE
+57,3,Nathalie DE OLIVEIRA
+57,5,Angèle DUFFLO
+57,6,Jean-Christophe KINNEL
+57,7,Paola ZANETTI
+57,8,Michel LIEBGOTT
+57,9,Brigitte VAISSE
+58,1,Gaëtan GORCE
+58,2,Christian PAUL
+59,0,Marcel LOUREL
+59,0,Yasmina CHIGRI KERNAB
+59,1,Christine LAURENT
+59,1,François LAMY
+59,1,Roger VICOT
+59,2,Audrey LINKENHELD
+59,3,Nozha EL KASSIMI
+59,3,Rémi PAUVROS
+59,4,Christian DEVOS
+59,4,Philippe HARQUET
+59,5,Aude LEDUC
+59,5,Michel LABITTE
+59,6,Frédéric DELANNOY
+59,7,Agnès DUPUIS
+59,7,Hélène VIARD
+60,3,Johann LUCAS
+60,7,Alexandre OUIZILLE
+62,0,Bernard CAILLIAU
+62,1,Jean-Jacques COTTEL
+62,1,Philippe KEMEL
+62,2,Jacqueline MAQUET
+62,2,Nicolas BAYS
+62,3,Frédérique MASSON
+62,4,Blandine DRAIN
+62,5,Frédéric CUVILLIER
+62,6,Brigitte BOURGUIGNON
+62,7,Yann CAPET
+62,8,Bertrand PETIT
+63,1,Cécile AUDET
+63,2,Christine PIRES BEAUNE
+63,3,Alphonse BELLONTE
+63,4,Sylvie MAISONNET
+63,5,Gérard BETENFELD
+64,1,Jérôme MARBOT
+64,2,Nathalie CHABANNE
+64,3,David HABIB
+64,5,Colette CAPDEVIELLE
+64,6,Sylviane ALAUX
+65,1,Jean GALVANY
+66,1,Jacques CRESTA
+66,2,Marie-Pierre SADOURNY
+66,3,Ségolène NEUVILLE
+66,4,Alexandre Reynal
+67,1,Eric ELKOUBY
+67,2,Philippe BIES
+67,3,Serge OEHLER
+69,0,Jocelyne GIONTARELLI
+69,1,Jules JOASSARD
+69,2,David CHIZAT
+69,2,Hubert JULIEN-LAFERRIERE
+69,3,Françoise BERGAME
+69,3,Jean-Louis TOURAINE
+69,4,Anne BRUGNERA
+69,4,Yves BLEIN
+69,5,Natacha VERPILLOT
+69,6,Najat VALLAUD BELKACEM
+69,7,Renaud GAUQUELIN
+71,1,Catherine N'DIAYE
+71,2,Philomène BACCOT
+71,3,Philippe BAUMEL
+71,4,Cécile UNTERMAIER
+71,5,Christophe SIRUGUE
+72,1,Françoise DUBOIS
+72,2,Marietta KARAMANLI
+72,3,Nicolas CHAUVIN
+72,5,Christophe ROUILLON
+74,4,Anne FAVRELLE
+74,5,Jean-Baptiste BAUD
+75,1,Pascal CHERKI
+75,1,Pauline VERON
+75,2,Florian SITBON
+75,2,Marine ROSSET
+75,3,Annick LEPETIT
+75,3,Isabelle ROY
+75,4,Fabrice DASSIE
+75,4,Pierre-Alain WEIL
+75,5,George PAU LANGEVIN
+75,5,Seybah DAGOMA
+75,6,Jean-Christophe CAMBADELIS
+75,6,Nawel OUMER
+75,7,Colombe BROSSEL
+75,7,Patrick BLOCHE
+75,8,Myriam EL KHOMRI
+75,8,Sandrine MAZETIER
+75,9,Jean-Marie LE GUEN
+76,0,Jean-Pierre THEVENOT
+76,1,Valérie FOURNEYRON
+76,3,Luce PANE
+76,4,Guillaume BACHELAY
+76,5,Christophe BOUILLON
+76,6,Marie LE VERN
+76,7,Matthieu BRASSE
+76,8,Catherine TROALLIC
+76,9,Estelle GRELIER
+77,0,Juliette MEADEL
+77,1,Nicolas ALIX
+77,1,Olivier FAURE
+77,3,Marie-Laure FAGES
+77,4,Olivier HUSSON
+77,6,Bastien MARGUERITE
+77,7,Stéphane JABUT
+77,8,Eduardo RIHAN CYPEL
+77,9,Monique DELESSARD
+78,0,Jean-Claude HUSSON
+78,1,Benoit HAMON
+78,1,Charlotte ROSSETTINI
+78,2,Amroze ADJUWARD
+78,2,Marie-Noelle BAS
+78,3,Nicolas HUE
+78,4,Monika BELALA
+78,5,Michèle VITRAC POUZOULET
+78,6,Angélique SILLY
+78,8,Françoise DESCAMPS CROSNIER
+78,9,Alie MOHAMMAD
+79,1,Elodie TRUONG
+79,2,Delphine BATHO
+79,3,Marc BONNEAU
+80,1,Pascale BOISTARD
+80,5,Benjamin LUCAS
+81,1,Patrice BEDIER
+81,2,Claire FITA
+82,1,Valérie RABAULT
+83,1,Valentin GIES
+83,2,Cécile MUSCHOTTI
+83,3,William SEEMULLER
+83,5,Insaf REZAGUI
+83,6,Cécile LAUBLET
+83,7,Jimmy COSTE
+84,1,Christine LAGRANGE
+84,3,Céline VALADIER
+84,4,Marlène THIBAUD
+84,5,Jean-François LOVISOLO
+85,1,Cécile DREURE
+85,2,Sylviane BULTEAU
+85,3,Anthony PITALIER
+85,5,Hugues FOURAGE
+86,2,Patricia PERSICO
+86,3,Jean-Michel CLEMENT
+87,1,Laurent LAFAYE
+87,2,Annick MORIZIO
+87,3,Catherine BEAUBATIE
+88,1,Martine FRANCOIS
+88,3,Stessy SPEISSMANN
+88,4,Christian FRANQUEVILLE
+90,1,Arthur COURTY
+90,2,Maude CLAVEQUIN
+91,0,Malek BOUTIH
+91,3,Michel POUZOL
+91,4,Ophélie GUIN
+91,5,Maud OLIVIER
+91,6,Jérôme GUEDJ
+91,9,Romain COLAS
+92,0,Thomas PUIJALON
+92,1,Alexis BACHELAY
+92,1,Julie SOMMARUGA
+92,2,Chantal BARTHELEMY RUIZ
+92,2,Jean-Marc GERMAIN
+92,3,Benjamin LANIER
+92,3,Isabelle DAHAN
+92,4,Habiba BIGDADE
+92,5,Lies MESSAFTA
+92,6,Marie BRANNENS
+92,8,Catherine LIME BIFFE
+93,0,Daniel GOLDBERG
+93,1,Bruno LE ROUX
+93,2,Mathieu HANOTIN
+93,2,Pascal POPELIN
+93,5,Valérie MERY FRITZ
+93,6,Elisabeth GUIGOU
+93,7,Razzy HAMMADI
+93,8,Elisabeth POCHON
+93,9,Claude BARTOLONE
+94,1,Jean-Yves LE BOUILLONNEC
+94,1,Laurence VAGNIER
+94,4,Zakaria ZAIDANE
+94,5,Caroline ADOMO
+94,6,Patrice BEDOURET
+94,7,Jean-Jacques BRIDEY
+94,8,Sophie GALLAIS
+94,9,Luc CARVOUNAS
+95,0,Dominique LEFEBVRE
+95,1,Sandra NGUYEN DEROSIER
+95,2,Ayda HADIZADEH
+95,3,Nelly LEON
+95,4,Gérard SEBAOUN
+95,5,Philippe DOUCET
+95,6,Guilaine PESTIE
+95,9,Luc BROUSSY
+974,1,Ericka BAREIGTS
+974,2,Salim NANA IBRAHIM
+974,3,Jean-Jacques VLODY
+974,5,Philippe LECONSTANT
+974,6,Monique ORPHE
+974,7,Virginie GOBALOU
+999,0,Daad NAFFI
+999,1,Matthias ASSANTE
+999,1,Yan CHANTREL
+999,2,Florence BAILLON
+999,3,Axelle LEMAIRE
+999,4,Philip CORDERY
+999,6,Nicole CASTIONI
+999,7,Pierre-Yves LE BORGN'
+999,9,Didier LE BRET
