@@ -11,7 +11,7 @@ curl -sL $URL                                           |
   while read line; do
     if echo $line | grep "circonscription" > /dev/null; then
       circo=$(echo $line | sed -r 's/^[^0-9]+//' | sed -r 's/^([0-9]+)è.*$/\1/')
-      nom=$(echo $line | sed 's/^.* :\s*//' | sed 's/<\/\?a[^>]*>//g' | sed 's/\s*<.*$//')
+      nom=$(echo $line | sed 's/^.* :\s*//' | sed 's/\s*<\/a[^>]*>.*</</' | sed 's/\s*<a[^>]*>\s*//g' | sed 's/\s*<.*$//' | sed 's/^[ \s]\+//')
       echo "$dep,$circo,$nom"
     else
       dep=$(echo $line | sed -r 's/^.*(Département | \()([0-9]+)[^0-9].*$/\2/')
