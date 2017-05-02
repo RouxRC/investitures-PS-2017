@@ -1,12 +1,14 @@
 département,circonscription,nom
 01,3,Géraldine SACCHI
 02,3,Jean-Louis BRICOUT
+02,4,Marie Françoise BECHTEL
 03,1,Magali ALEXANDRE
 03,2,Nicolas BRIEN
 04,1,Delphine BAGARRY
 04,2,Christophe CASTANER
 05,1,Karine BERGER
-06,2,Pierre-Marie CARLIER
+06,2,Xavier GARCIA
+06,3,Pierre-Marie CARLIER
 06,5,Chaama GRAILLAT
 07,1,Hervé SAULIGNAC
 07,2,Olivier DUSSOPT
@@ -35,12 +37,14 @@ département,circonscription,nom
 13,9,Stéphanie HARKANE
 14,1,Eric VEVE
 14,2,Laurence DUMONT
+14,3,Clotilde VALTER
 14,4,Xavier MADELAINE
 16,1,Martine PINVILLE
 16,2,Marianne REYNAUD
 16,3,Jérôme LAMBERT
 17,3,Françoise MESNARD
 17,4,Fabienne DUGAS RAVENEAU
+17,5,Mickaël VALLET
 18,1,Céline BEZOUI
 18,2,Agnès SINSOULIER
 18,3,Yann GALUT
@@ -49,6 +53,7 @@ département,circonscription,nom
 20,1,Emmanuelle DE GENTILI
 21,1,Sladana ZIVKOVIC
 21,2,Pierre PRIBETICH
+21,3,Anne DILLENSEGER
 22,1,Michel LESAGE
 22,2,Viviane LE DISSEZ
 22,4,Annie LE HOUÉROU
@@ -65,11 +70,13 @@ département,circonscription,nom
 26,3,Pascale ROCHAS
 26,4,Pierre JOUVET
 27,2,Jean-Louis DESTANS
+27,4,Richard JACQUET
 27,5,Martine SEGUELA
 28,1,Stéphane CORDIER
 28,2,Nadia FAVERIS
 29,1,Jean-Jacques URVOAS
 29,2,Patricia ADAM
+29,3,Jean-Luc BLEUNVEN
 29,4,Gwenegan BUI
 29,5,Chantal GUITTET RAISON
 29,7,Florence CROM
@@ -123,6 +130,7 @@ département,circonscription,nom
 38,3,Michel DESTOT
 38,4,Marie-Noelle BATTISTEL
 38,5,Eliane GIRAUD
+38,6,Alexandre BOLLEAU
 38,7,Monique LIMON CHARPONAY
 38,8,Erwann BINET
 39,1,Marc-Henri DUVERNET
@@ -153,12 +161,14 @@ département,circonscription,nom
 47,1,Lucette LOUSTEAU
 47,2,Matthias FEKL
 47,3,Guillaume MOLIERAC
+48,1,Aurélie MAILLOLS
 49,1,Luc BELOT
 49,4,Meriem BABA
 49,5,Laurence ADRIEN BIGEON
 49,6,Serge BARDY
 49,7,Sylvie CAMARA TOMBINI
 50,3,Stéphane TRAVERT
+50,4,Arnaud CATHERINE
 51,1,Alexandre TUNC
 51,2,Imane MANIANI
 51,3,Hadhoum BELAREDJ TUNC
@@ -170,10 +180,14 @@ département,circonscription,nom
 54,2,Hervé FERON
 54,3,Christian ECKERT
 54,5,Dominique POTIER
+54,6,Julien VAILLANT
 55,1,Arnaud MAC FARLANE
 55,2,Jean-Louis DUMONT
+56,1,Hervé PELLOIS
 56,2,Stéphanie LE SQUER
+56,3,Marie-Christine LE MOUEL
 56,5,Gwendal ROUILLARD
+56,6,Jérôme DECROCK
 57,1,Aurélie FILIPETTI
 57,2,Jean-Michel TOULOUZE
 57,3,Nathalie DE OLIVEIRA
@@ -191,6 +205,7 @@ département,circonscription,nom
 59,15,Michel LABITTE
 59,16,Frédéric DELANNOY
 59,17,Agnès DUPUIS
+59,18,Claire POMMEYROL BURLET
 59,20,Marcel LOUREL
 59,2,Audrey LINKENHELD
 59,21,Christine LAURENT
@@ -200,6 +215,8 @@ département,circonscription,nom
 59,7,Hélène VIARD
 60,3,Johann LUCAS
 60,7,Alexandre OUIZILLE
+61,2,Serge DELAVALLEE
+61,3,Isabelle BOSCHER
 62,10,Bernard CAILLIAU
 62,1,Jean-Jacques COTTEL
 62,11,Philippe KEMEL
@@ -228,6 +245,8 @@ département,circonscription,nom
 67,1,Eric ELKOUBY
 67,2,Philippe BIES
 67,3,Serge OEHLER
+68,5,Abdellatif TIMDOUINE
+68,6,Pierre PARRA
 69,11,Jules JOASSARD
 69,12,David CHIZAT
 69,13,Françoise BERGAME
@@ -236,6 +255,8 @@ département,circonscription,nom
 69,5,Natacha VERPILLOT
 69,6,Najat VALLAUD BELKACEM
 69,7,Renaud GAUQUELIN
+70,1,Laurent RICARD
+70,2,Jérôme LAROCHE
 71,1,Catherine N'DIAYE
 71,2,Philomène BACCOT
 71,3,Philippe BAUMEL
@@ -244,7 +265,9 @@ département,circonscription,nom
 72,1,Françoise DUBOIS
 72,2,Marietta KARAMANLI
 72,3,Nicolas CHAUVIN
+72,4,Stéphane LE FOLL
 72,5,Christophe ROUILLON
+73,3,Philippe VIVIER
 74,4,Anne FAVRELLE
 74,5,Jean-Baptiste BAUD
 75,1,Pauline VERON
@@ -265,6 +288,7 @@ département,circonscription,nom
 75,9,Jean-Marie LE GUEN
 76,10,Jean-Pierre THEVENOT
 76,1,Valérie FOURNEYRON
+76,2,Jacques Antoine PHILIPPE
 76,3,Luce PANE
 76,4,Guillaume BACHELAY
 76,5,Christophe BOUILLON
@@ -298,6 +322,7 @@ département,circonscription,nom
 80,5,Benjamin LUCAS
 81,1,Patrice BEDIER
 81,2,Claire FITA
+81,3,Linda GOURJADE
 82,1,Valérie RABAULT
 83,1,Valentin GIES
 83,2,Cécile MUSCHOTTI
@@ -312,6 +337,7 @@ département,circonscription,nom
 85,2,Sylviane BULTEAU
 85,3,Anthony PITALIER
 85,5,Hugues FOURAGE
+86,1,Xavier Moinier
 86,2,Patricia PERSICO
 86,3,Jean-Michel CLEMENT
 87,1,Laurent LAFAYE
@@ -320,12 +346,14 @@ département,circonscription,nom
 88,1,Martine FRANCOIS
 88,3,Stessy SPEISSMANN
 88,4,Christian FRANQUEVILLE
+89,3,Dominique BOURREAU
 90,2,Maude CLAVEQUIN
 91,10,Malek BOUTIH
 91,3,Michel POUZOL
 91,4,Ophélie GUIN
 91,5,Maud OLIVIER
 91,6,Jérôme GUEDJ
+91,8,Faten BEN AHMED
 91,9,Romain COLAS
 92,10,Thomas PUIJALON
 92,1,Alexis BACHELAY
@@ -359,6 +387,7 @@ département,circonscription,nom
 95,1,Sandra NGUYEN DEROSIER
 95,2,Ayda HADIZADEH
 95,3,Nelly LEON
+95,4,Marie-José BEAULANDE
 95,5,Philippe DOUCET
 95,6,Guilaine PESTIE
 95,9,Luc BROUSSY
