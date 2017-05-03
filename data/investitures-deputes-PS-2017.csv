@@ -69,7 +69,6 @@ département,circonscription,nom
 26,2,Isabelle MALRIC
 26,3,Pascale ROCHAS
 26,4,Pierre JOUVET
-27,2,Jean-Louis DESTANS
 27,4,Richard JACQUET
 27,5,Martine SEGUELA
 28,1,Stéphane CORDIER
@@ -131,7 +130,6 @@ département,circonscription,nom
 38,4,Marie-Noelle BATTISTEL
 38,5,Eliane GIRAUD
 38,6,Alexandre BOLLEAU
-38,7,Monique LIMON CHARPONAY
 38,8,Erwann BINET
 39,1,Marc-Henri DUVERNET
 39,3,Françoise BARTHOULOT
@@ -150,7 +148,6 @@ département,circonscription,nom
 44,3,Karine DANIEL
 44,4,Dominique RAIMBOURG
 44,5,Michel MENARD
-44,6,Yves DANIEL
 44,7,Anne BOYE
 44,8,Laurianne DENIAUD
 45,1,Olivier JOUIN
@@ -164,10 +161,8 @@ département,circonscription,nom
 48,1,Aurélie MAILLOLS
 49,1,Luc BELOT
 49,4,Meriem BABA
-49,5,Laurence ADRIEN BIGEON
 49,6,Serge BARDY
 49,7,Sylvie CAMARA TOMBINI
-50,3,Stéphane TRAVERT
 50,4,Arnaud CATHERINE
 51,1,Alexandre TUNC
 51,2,Imane MANIANI
@@ -251,8 +246,6 @@ département,circonscription,nom
 69,12,David CHIZAT
 69,13,Françoise BERGAME
 69,14,Yves BLEIN
-69,4,Anne BRUGNERA
-69,5,Natacha VERPILLOT
 69,6,Najat VALLAUD BELKACEM
 69,7,Renaud GAUQUELIN
 70,1,Laurent RICARD
@@ -273,7 +266,6 @@ département,circonscription,nom
 75,1,Pauline VERON
 75,11,Pascal CHERKI
 75,12,Florian SITBON
-75,13,Isabelle ROY
 75,14,Pierre-Alain WEILL
 75,15,George PAU LANGEVIN
 75,16,Jean-Christophe CAMBADELIS
@@ -368,19 +360,13 @@ département,circonscription,nom
 92,8,Catherine LIME BIFFE
 93,10,Daniel GOLDBERG
 93,1,Bruno LE ROUX
-93,12,Pascal POPELIN
 93,2,Mathieu HANOTIN
 93,5,Valérie MERY FRITZ
 93,6,Elisabeth GUIGOU
 93,7,Razzy HAMMADI
 93,8,Elisabeth POCHON
-94,1,Olivier PLACE
-94,11,Hélène de COMARMOND
-94,2,Axel URGIN
-94,3,Corinne NARASSIGUIN
 94,4,Zakaria ZAIDANE
 94,5,Caroline ADOMO
-94,7,Jean-Jacques BRIDEY
 94,8,Sophie GALLAIS
 94,9,Luc CARVOUNAS
 95,10,Dominique LEFEBVRE
@@ -400,7 +386,6 @@ département,circonscription,nom
 999,10,Daad NAFFI
 999,1,Yan CHANTREL
 999,11,Florian BOHEME
-999,2,Florence BAILLON
 999,3,Axelle LEMAIRE
 999,4,Philip CORDERY
 999,5,Gabrielle SIRY
