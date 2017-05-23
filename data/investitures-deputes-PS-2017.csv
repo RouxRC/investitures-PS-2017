@@ -4,11 +4,8 @@ département,circonscription,nom
 02,4,Marie Françoise BECHTEL
 03,1,Magali ALEXANDRE
 03,2,Nicolas BRIEN
-04,1,Delphine BAGARRY
 05,1,Karine BERGER
-06,2,Xavier GARCIA
-06,3,Pierre-Marie CARLIER
-06,5,Chaama GRAILLAT
+06,2,Pierre-Marie CARLIER
 07,1,Hervé SAULIGNAC
 07,2,Olivier DUSSOPT
 07,3,Sabine BUIS
@@ -17,7 +14,6 @@ département,circonscription,nom
 09,1,Martine ESTEBAN
 09,2,Alain FAURE
 10,1,Emmanuel PROVIN
-10,2,Audrey AIT KEDDACHE
 10,3,David BLANCHON
 11,1,Alain GINIES
 11,2,Marie-Hélène FABRE
@@ -31,7 +27,6 @@ département,circonscription,nom
 13,2,Annie LEVY-MOZZICONACCI
 13,3,Anne DI MARINO
 13,4,Patrick MENNUCCI
-13,5,Marie-Arlette CARLOTTI
 13,7,Henri JIBRAYEL
 13,9,Stéphanie HARKANE
 14,1,Eric VEVE
@@ -62,7 +57,6 @@ département,circonscription,nom
 24,4,Benjamin DELRIEUX
 25,1,Barbara ROMAGNAN
 25,3,Sidonie MARCHAL
-25,4,Frédéric BARBIER
 26,1,Jean-Pierre VEYRET
 26,2,Isabelle MALRIC
 26,3,Pascale ROCHAS
@@ -78,9 +72,6 @@ département,circonscription,nom
 29,5,Chantal GUITTET RAISON
 29,7,Florence CROM
 29,8,Michaël QUERNEZ
-30,1,Françoise DUMAS
-30,2,Katy GUYOT
-30,3,Catherine EYSSERIC
 30,4,Fabrice VERDIER
 30,5,Nelly FRONTANAU
 31,10,Kader ARIF
@@ -94,7 +85,6 @@ département,circonscription,nom
 31,9,Christophe BORGEL
 32,1,Francis DUPOUEY
 32,2,Gisèle BIEMOURET
-33,1,Sandrine DOUCET
 33,11,Michèle LACOSTE
 33,2,Michèle DELAUNAY
 33,3,Naima CHARAI
@@ -115,7 +105,6 @@ département,circonscription,nom
 35,3,François ANDRE
 35,4,Franck PICHOT
 35,5,Stéphane LENFANT
-35,6,Evelyne GAUTIER LE BAIL
 35,7,Alexandra THIERRY
 35,8,Emmanuel COUET
 36,2,Isabelle BRUNEAU
@@ -131,7 +120,6 @@ département,circonscription,nom
 38,6,Alexandre BOLLEAU
 38,8,Erwann BINET
 39,1,Marc-Henri DUVERNET
-39,3,Françoise BARTHOULOT
 40,1,Renaud LAGRAVE
 40,2,Christine BASLY LAPEGUE
 40,3,Boris VALLAUD
@@ -165,9 +153,7 @@ département,circonscription,nom
 50,4,Arnaud CATHERINE
 51,1,Alexandre TUNC
 51,2,Imane MANIANI
-51,3,Hadhoum BELAREDJ TUNC
 51,4,Rudy NAMUR
-51,5,Linda MUNSTER
 52,2,Antoine DESFRETIER
 53,1,Guillaume GAROT
 54,1,Chaynesse KHIROUNI
@@ -180,7 +166,6 @@ département,circonscription,nom
 56,1,Hervé PELLOIS
 56,2,Stéphanie LE SQUER
 56,3,Marie-Christine LE MOUEL
-56,5,Gwendal ROUILLARD
 56,6,Jérôme DECROCK
 57,1,Aurélie FILIPETTI
 57,2,Jean-Michel TOULOUZE
@@ -188,7 +173,6 @@ département,circonscription,nom
 57,5,Angèle DUFFLO
 57,6,Jean-Christophe KINNEL
 57,7,Paola ZANETTI
-57,8,Michel LIEBGOTT
 57,9,Brigitte VAISSE
 58,1,Gaëtan GORCE
 58,2,Christian PAUL
@@ -199,8 +183,6 @@ département,circonscription,nom
 59,15,Michel LABITTE
 59,16,Frédéric DELANNOY
 59,17,Agnès DUPUIS
-59,18,Claire POMMEYROL BURLET
-59,20,Marcel LOUREL
 59,2,Audrey LINKENHELD
 59,21,Christine LAURENT
 59,3,Rémi PAUVROS
@@ -210,7 +192,6 @@ département,circonscription,nom
 60,3,Johann LUCAS
 60,7,Alexandre OUIZILLE
 61,2,Serge DELAVALLEE
-61,3,Isabelle BOSCHER
 62,10,Bernard CAILLIAU
 62,1,Jean-Jacques COTTEL
 62,11,Philippe KEMEL
