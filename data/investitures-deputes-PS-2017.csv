@@ -1,7 +1,6 @@
 département,circonscription,nom
 01,1,Florence BLATRIX
 01,3,Géraldine SACCHI
-02,1,Fawaz KARIMET
 02,2,Karl PINCHERELLE
 02,3,Jean-Louis BRICOUT
 02,4,Marie Françoise BECHTEL
@@ -171,7 +170,6 @@ département,circonscription,nom
 49,6,Serge BARDY
 49,7,Sylvie CAMARA TOMBINI
 50,1,Clémence Maulat
-50,2,Nicolas FEIRREIRA
 50,4,Arnaud CATHERINE
 51,1,Alexandre TUNC
 51,2,Imane MANIANI
@@ -187,7 +185,6 @@ département,circonscription,nom
 54,6,Julien VAILLANT
 55,1,Arnaud MAC FARLANE
 55,2,Jean-Louis DUMONT
-56,1,Hervé PELLOIS
 56,2,Stéphanie LE SQUER
 56,3,Marie-Christine LE MOUEL
 56,6,Jérôme DECROCK
@@ -260,7 +257,6 @@ département,circonscription,nom
 69,6,Najat VALLAUD BELKACEM
 69,7,Renaud GAUQUELIN
 70,1,Laurent RICARD
-70,2,Jérôme LAROCHE
 71,1,Catherine N'DIAYE
 71,3,Philippe BAUMEL
 71,4,Cécile UNTERMAIER
@@ -306,7 +302,6 @@ département,circonscription,nom
 77,11,Olivier FAURE
 77,3,Marie-Laure FAGES
 77,4,Olivier HUSSON
-77,5,Claire Audrey SIMONET
 77,6,Martial SOUVERAIN
 77,7,Stéphane JABUT
 77,8,Eduardo RIHAN CYPEL
@@ -328,8 +323,6 @@ département,circonscription,nom
 81,2,Claire FITA
 81,3,Linda GOURJADE
 82,1,Valérie RABAULT
-83,1,Valentin GIES
-83,3,William SEEMULLER
 83,5,Insaf REZAGUI
 83,6,Cécile LAUBLET
 84,1,Christine LAGRANGE
@@ -396,11 +389,9 @@ département,circonscription,nom
 95,8,François PUPPONI
 95,9,Luc BROUSSY
 974,1,Ericka BAREIGTS
-974,2,Huguette BELLO
 974,3,Jean-Jacques VLODY
 974,4,Patrick LEBRETON
 974,5,Philippe LECONSTANT
-974,7,Emmanuel SERAPHIN
 999,1,Yan CHANTREL
 999,11,Florian BOHEME
 999,2,Florence BAILLON
