@@ -6,8 +6,10 @@ département,circonscription,nom
 02,4,Marie Françoise BECHTEL
 03,1,Magali ALEXANDRE
 03,2,Nicolas BRIEN
+04,1,Colette CHARRIAU &#8211; EELV
 05,1,Karine BERGER
 06,1,Yann LIBRATI
+06,3,Laurent LANQUAR-CASTIEL &#8211; EELV
 06,3,Raphael GALMICHE
 06,5,Jacqueline DEVIER
 06,6,Michel GAILLARD
@@ -29,15 +31,20 @@ département,circonscription,nom
 11,3,André VIOLA
 12,1,Sarah VIDAL
 12,2,Bertrand CAVALERIE
+13,10,Nathalie MINARI &#8211; UDE
 13,1,Gérard OREGGIA
+13,11,Dorian HISPA &#8211; EELV
 13,12,Isabelle ROVARINO
 13,13,Lionel JAREMA
 13,14,Jean-David CIOT
+13,15,Cécile MOLL &#8211; UDE
 13,16,Nora MEBAREK
 13,2,Annie LEVY-MOZZICONACCI
 13,3,Anne DI MARINO
 13,4,Patrick MENNUCCI
+13,6,Hervé MENCHON &#8211; EELV
 13,7,Henri JIBRAYEL
+13,8,Matthieu SAINTAGNE
 13,9,Stéphanie HARKANE
 14,1,Eric VÉVE
 14,2,Laurence DUMONT
@@ -374,11 +381,15 @@ département,circonscription,nom
 81,3,Linda GOURJADE
 82,1,Valérie RABAULT
 82,2,Sylvia PINEL &#8211; PRG
+83,4,Jean-Laurent FELIZIA &#8211; EELV
 83,5,Insaf REZAGUI
 83,6,Cécile LAUBLET
+83,7,Denise REVERDITO &#8211; EELV
+83,8,Sophie GOY &#8211; UDE
 84,1,Christine LAGRANGE
 84,2,Philippe BATOUX
 84,4,Marlène THIBAUD
+84,5,Luc REYNARD &#8211; PRG
 85,1,Cécile DREURE
 85,2,Sylviane BULTEAU
 85,3,Anthony PITALIER
@@ -457,8 +468,12 @@ département,circonscription,nom
 971,4,Hélène VAINQUEUR CHRISTOPHE
 972,1,Raphaël VAUGIRARD
 974,1,Ericka BAREIGTS
+974,2,Huguette BELLO &#8211; PLR
 974,3,Jean-Jacques VLODY
+974,4,Virginie GOBALOU
 974,5,Philippe LE CONSTANT
+974,7,Emmanuel SÉRAPHIN &#8211; PLR
+976,1,Ramlati ALI
 976,2,Ibrahim ABOUBACAR
 999,1,Yan CHANTREL
 999,11,Florian BOHEME
