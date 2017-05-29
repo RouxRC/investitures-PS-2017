@@ -8,7 +8,6 @@ département,circonscription,nom
 03,2,Nicolas BRIEN
 05,1,Karine BERGER
 06,1,Yann LIBRATI
-06,2,Pierre-Marie CARLIER
 06,3,Raphael GALMICHE
 06,5,Jacqueline DEVIER
 06,6,Michel GAILLARD
@@ -17,6 +16,7 @@ département,circonscription,nom
 07,1,Hervé SAULIGNAC
 07,2,Olivier DUSSOPT
 07,3,Sabine BUIS
+08,1,Christophe DUMONT &#8211; EELV
 08,2,Christophe LEONARD
 08,3,Didier HERBILLON
 09,1,Martine ESTEBAN
@@ -39,14 +39,17 @@ département,circonscription,nom
 13,4,Patrick MENNUCCI
 13,7,Henri JIBRAYEL
 13,9,Stéphanie HARKANE
-14,1,Eric VEVE
+14,1,Eric VÉVE
 14,2,Laurence DUMONT
 14,3,Clotilde VALTER
 14,4,Xavier MADELAINE
+14,5,Isabelle ATTARD &#8211; EELV
 15,2,Marc PETITJEAN
 16,1,Martine PINVILLE
-16,2,Marianne REYNAUD
+16,2,Marianne REYNAUD-JEANDIDIER
 16,3,Jérôme LAMBERT
+17,1,Olivier FALORNI &#8211; PRG
+17,2,Brigitte DESVEAUX &#8211; EELV
 17,3,Françoise MESNARD
 17,4,Fabienne DUGAS RAVENEAU
 17,5,Mickaël VALLET
@@ -58,39 +61,50 @@ département,circonscription,nom
 21,1,Sladana ZIVKOVIC
 21,2,Pierre PRIBETICH
 21,3,Anne DILLENSEGER
+21,4,Patrick MOLINOZ &#8211; PRG
+21,5,Jérôme FLACHE
 22,1,Michel LESAGE
 22,2,Viviane LE DISSEZ
 22,4,Annie LE HOUÉROU
 22,5,Eric ROBERT
 23,1,Michel VERGNIER
 24,1,Michel MOYRAND
+24,2,Brigitte ALLAIN &#8211; EELV
 24,3,Colette LANGLADE
 24,4,Benjamin DELRIEUX
 25,1,Barbara ROMAGNAN
 25,3,Sidonie MARCHAL
+25,4,Frédéric BARBIER
 26,1,Jean-Pierre VEYRET
 26,2,Isabelle MALRIC
 26,3,Pascale ROCHAS
 26,4,Pierre JOUVET
+27,1,Laetitia SANCHEZ &#8211; EELV
+27,2,Valéry BEURIOT &#8211; PCF
+27,3,Marie-Claire HAKI
 27,4,Richard JACQUET
 27,5,Martine SEGUELA
 28,1,Stéphane CORDIER
 28,2,Nadia FAVERIS
+28,3,Harold HUWART &#8211; PRG
+28,4,Nachida BARRE &#8211; EELV
 29,1,Jean-Jacques URVOAS
 29,2,Patricia ADAM
 29,3,Jean-Luc BLEUNVEN
 29,4,Gwenegan BUI
 29,5,Chantal GUITTET RAISON
+29,6,Nathanael LEGEARD &#8211; EELV
 29,7,Florence CROM
 29,8,Michaël QUERNEZ
 30,4,Fabrice VERDIER
 30,5,Nelly FRONTANAU
+30,6,Christophe CAVARD &#8211; UDE
 31,10,Kader ARIF
 31,1,Catherine LEMORTON
 31,2,Gérard BAPT
 31,3,Isabelle HARDY
 31,4,Martine MARTINEL
-31,5,Sandrine FLOUREUSSE
+31,5,Sandrine FLOUREUSSES
 31,6,Camille POUPONNEAU
 31,7,Marie-Caroline TEMPESTA
 31,8,Joel AVIRAGNET
@@ -108,6 +122,7 @@ département,circonscription,nom
 33,7,Bernard GARRIGOU
 33,8,Pierre PRADAYROL
 33,9,Gilles SAVARY
+34,1,Jean-Louis ROUMÉGAS &#8211; EELV
 34,2,Fatima BELLAREDJ
 34,3,Fanny DOMBRE COSTE
 34,4,Frédéric ROIG
@@ -115,12 +130,13 @@ département,circonscription,nom
 34,6,Antonio FULLEDA
 34,7,Sébastien DENAJA
 34,8,Christian ASSAF
+34,9,Bertrand COISNE &#8211; EELV
 35,1,Marie-Anne CHAPDELAINE
 35,2,Gaëlle ANDRO
 35,3,François ANDRE
 35,4,Franck PICHOT
 35,5,Stéphane LENFANT
-35,7,Alexandra THIERRY
+35,7,Solenn HALLOU &#8211; PCF
 35,8,Emmanuel COUET
 36,1,Jean-Paul CHANTEGUET
 36,2,Isabelle BRUNEAU
@@ -128,6 +144,7 @@ département,circonscription,nom
 37,2,Isabelle GAUDRON
 37,3,Marisol TOURAINE
 37,4,Laurent BAUMEL
+37,5,Mélanie FORTIER &#8211; PRG
 38,10,Joelle HUILLIER
 38,2,Pierre VERRI
 38,3,Michel DESTOT
@@ -136,51 +153,62 @@ département,circonscription,nom
 38,6,Alexandre BOLLEAU
 38,8,Erwann BINET
 39,1,Marc-Henri DUVERNET
+39,2,Christophe MASSON &#8211; EELV
+39,3,Laurence BERNIER &#8211; PCF
 40,1,Renaud LAGRAVE
 40,2,Christine BASLY LAPEGUE
 40,3,Boris VALLAUD
 41,1,Denys ROBILIARD
 41,2,Didier GUENIN
+41,3,Christian GUELLIER &#8211; EELV
 42,1,Régis JUANICO
 42,3,Philippe KIZIRIAN
 42,4,Laurence JUBAN
 42,5,Brigitte DUMOULIN
 43,1,Fabrice FARISON
 43,2,Josiane MIALON
+44,10,Brigitte HÉRIDEL &#8211; EELV
 44,2,Alain ROBERT
 44,3,Karine DANIEL
 44,4,Dominique RAIMBOURG
 44,5,Michel MENARD
-44,7,Anne BOYE
+44,6,Gérard POISSON
+44,7,Anne BOYÉ
 44,8,Laurianne DENIAUD
 44,9,Monique RABIN
 45,1,Olivier JOUIN
-45,3,Thierry COLIS
+45,2,Jean-Philippe GRAND &#8211; EELV
 45,4,Jalila GABORET
 45,5,Thierry STROMBONI
 45,6,Valérie CORRE
+46,1,Dominique ORLIAC &#8211; PRG
 46,2,Vincent LABARTHE
 47,1,Lucette LOUSTEAU
 47,2,Matthias FEKL
 47,3,Guillaume MOLIERAC
 48,1,Aurélie MAILLOLS
 49,1,Luc BELOT
+49,3,Alexandre LEROY &#8211; PRG
 49,4,Meriem BABA
 49,5,Jean-Marc VACHER
 49,6,Serge BARDY
-49,7,Sylvie CAMARA TOMBINI
-50,1,Clémence Maulat
+49,7,Sylvia CAMARA TOMBINI
+50,1,Clémence MAULAT
+50,2,Nicolas FERREIRA
 50,4,Arnaud CATHERINE
 51,1,Alexandre TUNC
 51,2,Imane MANIANI
 51,4,Rudy NAMUR
+51,5,Dominique CHAILLOUX &#8211; PCF
 52,1,Axel CAUSIN
 52,2,Antoine DESFRETIER
 53,1,Guillaume GAROT
 53,2,Marie Noelle TRIBONDEAU
+53,3,Michel NEVEU &#8211; PRG
 54,1,Chaynesse KHIROUNI
 54,2,Hervé FERON
 54,3,Christian ECKERT
+54,4,Marie-Neige HOUCHARD &#8211; EELV
 54,5,Dominique POTIER
 54,6,Julien VAILLANT
 55,1,Arnaud MAC FARLANE
@@ -195,25 +223,31 @@ département,circonscription,nom
 57,5,Angèle DUFFLO
 57,6,Jean-Christophe KINNEL
 57,7,Paola ZANETTI
-57,8,Peggy MAZZERO
-57,9,Brigitte VAISSE
+57,8,Peggy MAZZERO-BECKER
+57,9,Brigitte VAÏSSE
 58,1,Gaëtan GORCE
 58,2,Christian PAUL
 59,10,Yasmina CHIGRI KERNAB
 59,1,François LAMY
 59,11,Roger VICOT
+59,13,Christian HUTIN &#8211; MRC
 59,14,Christian DEVOS
 59,15,Michel LABITTE
 59,16,Frédéric DELANNOY
 59,17,Agnès DUPUIS
+59,19,Anne-Lise DUFOUR TONINI
 59,2,Audrey LINKENHELD
 59,21,Christine LAURENT
 59,3,Rémi PAUVROS
 59,4,Philippe HARQUET
 59,5,Aude LEDUC
+59,6,Isabelle COLAS &#8211; UDE
 59,7,Hélène VIARD
 59,8,Mehdi MASSROUR
+60,1,Josiane BAECKELANDT &#8211; PRG
+60,2,Jacqueline FONTAINE &#8211; EELV
 60,3,Johann LUCAS
+60,4,Martine BERNARD &#8211; EELV
 60,5,Bertrand BRASSENS
 60,7,Alexandre OUIZILLE
 61,1,Joachim PUEYO
@@ -222,12 +256,13 @@ département,circonscription,nom
 62,1,Jean-Jacques COTTEL
 62,11,Philippe KEMEL
 62,12,Laurent DUPORGE
-62,2,Antoine DETOURNE
+62,2,Antoine DÉTOURNÉ
 62,3,Frédérique MASSON
 62,4,Blandine DRAIN
-62,5,Mireille HINGREZ CEREDA
+62,5,Mireille HINGREZ CÉRÉDA
 62,7,Yann CAPET
 62,8,Bertrand PETIT
+62,9,Stéphane SAINT-ANDRÉ &#8211; PRG
 63,1,Cécile AUDET
 63,2,Christine PIRES BEAUNE
 63,4,Sylvie MAISONNET
@@ -239,15 +274,19 @@ département,circonscription,nom
 64,5,Colette CAPDEVIELLE
 64,6,Sylviane ALAUX
 65,1,Jean GALVANY
+65,2,Jeanine DUBIÉ &#8211; PRG
+66,1,Jean CODOGNÈS &#8211; EELV
 66,2,Marie-Pierre SADOURNY
 66,3,Ségolène NEUVILLE
-66,4,Alexandre Reynal
+66,4,Alexandre REYNAL
 67,1,Eric ELKOUBY
 67,2,Philippe BIES
 67,3,Serge OEHLER
+67,4,Thibaut VINCI &#8211; PRG
 67,6,Martin EFFENBERGER
 67,8,Amboise PERRIN
 67,9,Hamid FILALI
+68,1,Marie Agnès STRAZEL &#8211; UDE
 68,5,Abdellatif TIMDOUINE
 68,6,Pierre PARRA
 69,11,Jules JOASSARD
@@ -258,6 +297,7 @@ département,circonscription,nom
 69,7,Renaud GAUQUELIN
 70,1,Laurent RICARD
 71,1,Catherine N'DIAYE
+71,2,Laurence BERNIER &#8211; PCF
 71,3,Philippe BAUMEL
 71,4,Cécile UNTERMAIER
 71,5,Christophe SIRUGUE
@@ -284,6 +324,7 @@ département,circonscription,nom
 75,3,Annick LEPETIT
 75,4,Fabrice DASSIE
 75,5,Seybah DAGOMA
+75,6,Cécile DUFLOT &#8211; EELV
 75,7,Patrick BLOCHE
 75,8,Sandrine MAZETIER
 75,9,Martin LAGANE
@@ -300,8 +341,10 @@ département,circonscription,nom
 77,10,Juliette MEADEL
 77,1,Nicolas ALIX
 77,11,Olivier FAURE
+77,2,Rose DE LA FUENTE &#8211; EELV
 77,3,Marie-Laure FAGES
 77,4,Olivier HUSSON
+77,5,Clémentine Audrey SIMONNET &#8211; PRG
 77,6,Martial SOUVERAIN
 77,7,Stéphane JABUT
 77,8,Eduardo RIHAN CYPEL
@@ -310,8 +353,12 @@ département,circonscription,nom
 78,1,Charlotte ROSSETTINI
 78,11,Benoît HAMON
 78,12,Marie-Noelle BAS
+78,2,Tanguy RUELLAN &#8211; EELV
 78,3,Nicolas HUE
 78,4,Monika BELALA
+78,5,Isabelle AMAGLIO-TERISSE &#8211; PRG
+78,6,Josiane DUPÉ-SUAREZ &#8211; PCF
+78,7,Ghislaine SENÉE &#8211; EELV
 78,8,Françoise DESCAMPS CROSNIER
 78,9,Ali MOHAMMAD
 79,1,Elodie TRUONG
@@ -319,10 +366,14 @@ département,circonscription,nom
 79,3,Marc BONNEAU
 80,1,Pascale BOISTARD
 80,2,Philippe CASIER
+80,3,Arnaud PETIT &#8211; PCF
+80,4,Elodie HEREN- EELV
+80,5,Valérie ROUSSEL &#8211; PCF
 81,1,Patrice BEDIER
 81,2,Claire FITA
 81,3,Linda GOURJADE
 82,1,Valérie RABAULT
+82,2,Sylvia PINEL &#8211; PRG
 83,5,Insaf REZAGUI
 83,6,Cécile LAUBLET
 84,1,Christine LAGRANGE
@@ -331,21 +382,29 @@ département,circonscription,nom
 85,1,Cécile DREURE
 85,2,Sylviane BULTEAU
 85,3,Anthony PITALIER
+85,4,Claudine GOICHON &#8211; EELV
 85,5,Hugues FOURAGE
 86,1,Xavier Moinier
 86,2,Patricia PERSICO
+86,4,Véronique MASSONNEAU &#8211; UDE
 87,1,Laurent LAFAYE
 87,2,Annick MORIZIO
 87,3,Catherine BEAUBATIE
 88,1,Martine FRANCOIS
+88,2,Christine L'HEUREUX &#8211; EELV
 88,3,Stessy SPEISSMANN
 88,4,Christian FRANQUEVILLE
+89,1,Maud NAVARRE &#8211; PRG
+89,2,Elodie ROY &#8211; PRG
 89,3,Dominique BOURREAU
+90,1,Bastien FAUDOT &#8211; MRC
 90,2,Maude CLAVEQUIN
+91,2,Patrick POLVERELLI &#8211; EELV
 91,3,Michel POUZOL
 91,4,Ophélie GUIN
 91,5,Maud OLIVIER
 91,6,Jérôme GUEDJ
+91,7,Eva SAS &#8211; EELV
 91,8,Faten BEN AHMED
 91,9,Romain COLAS
 92,10,Thomas PUIJALON
@@ -358,23 +417,29 @@ département,circonscription,nom
 92,4,Habiba BIGDADE
 92,5,Lies MESSATFA
 92,6,Marie BRANNENS
+92,7,Vincent POIZAT &#8211; EELV
+92,8,Françoise ROURE &#8211; PRG
+92,9,Fabienne GAMBIEZ &#8211; UDE
 93,10,Daniel GOLDBERG
 93,1,Yannick TRIGANCE
 93,11,Laurent CHANTRELLE
 93,12,Samira BOUHOUT TAYEBI
 93,2,Mathieu HANOTIN
+93,3,Emmanuelle COSSE &#8211; UDE
 93,4,Najia AMZAL
-93,5,Valérie MERY FRITZ
+93,5,Valérie MERY
 93,6,Elisabeth GUIGOU
 93,7,Razzy HAMMADI
 93,8,Elisabeth POCHON
 93,9,Daniel GUIRAUD
+94,10,Jean Luc Laurent &#8211; MRC
 94,1,Olivier PLACE
 94,11,Hélène DE COMARMOND
 94,2,Axel URGIN
 94,3,Corinne NARASSIGUIN
 94,4,Zakaria ZAIDANE
 94,5,Caroline ADOMO
+94,6,Laurence Abeille &#8211; EELV
 94,7,Jean-Jacques UM
 94,8,Sophie GALLAIS
 94,9,Luc CARVOUNAS
@@ -393,9 +458,8 @@ département,circonscription,nom
 972,1,Raphaël VAUGIRARD
 974,1,Ericka BAREIGTS
 974,3,Jean-Jacques VLODY
-974,4,Patrick LEBRETON
-974,5,Philippe LECONSTANT
-976,2,Ibrahin ABOUBACAR
+974,5,Philippe LE CONSTANT
+976,2,Ibrahim ABOUBACAR
 999,1,Yan CHANTREL
 999,11,Florian BOHEME
 999,2,Florence BAILLON
@@ -403,5 +467,5 @@ département,circonscription,nom
 999,4,Philip CORDERY
 999,5,Gabrielle SIRY
 999,7,Pierre-Yves LE BORGN'
-999,8,Benjamin DJIANE'
+999,8,Benjamin DJIANE
 999,9,Didier LE BRET
