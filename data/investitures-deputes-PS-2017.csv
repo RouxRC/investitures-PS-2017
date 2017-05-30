@@ -1,11 +1,16 @@
 département,circonscription,nom,affiliation
-01,1,Florence BLATRIX
-01,3,Géraldine SACCHI
+01,1,Florence BLATRIX-CONTAT
+01,2,Albane COLIN,EELV
+01,3,Géraldine SACCHI-HASSANEIN
+01,4,Sylviane CHENE,PRG
+01,5,Elodie SCHWANDER
+02,1,Fawaz 
 02,2,Karl PINCHERELLE
 02,3,Jean-Louis BRICOUT
 02,4,Marie Françoise BECHTEL
 03,1,Magali ALEXANDRE
 03,2,Nicolas BRIEN
+03,3,Jacques DE CHABANNES,PRG
 04,1,Colette CHARRIAU,EELV
 05,1,Karine BERGER
 06,1,Yann LIBRATI
@@ -44,13 +49,14 @@ département,circonscription,nom,affiliation
 13,4,Patrick MENNUCCI
 13,6,Hervé MENCHON,EELV
 13,7,Henri JIBRAYEL
-13,8,Matthieu SAINTAGNE
+13,8,Matthieu SAINTAGNE,EELV
 13,9,Stéphanie HARKANE
-14,1,Eric VÉVE
+14,1,Eric VÈVE
 14,2,Laurence DUMONT
 14,3,Clotilde VALTER
 14,4,Xavier MADELAINE
 14,5,Isabelle ATTARD,EELV
+15,1,Stéphane FRECHOU,EELV
 15,2,Marc PETITJEAN
 16,1,Martine PINVILLE
 16,2,Marianne REYNAUD-JEANDIDIER
@@ -153,12 +159,14 @@ département,circonscription,nom,affiliation
 37,4,Laurent BAUMEL
 37,5,Mélanie FORTIER,PRG
 38,10,Joelle HUILLIER
+38,1,Eric GRASSET,PRG
 38,2,Pierre VERRI
 38,3,Michel DESTOT
 38,4,Marie-Noelle BATTISTEL
 38,5,Eliane GIRAUD
 38,6,Alexandre BOLLEAU
 38,8,Erwann BINET
+38,9,Patrick CHOLAT,EELV
 39,1,Marc-Henri DUVERNET
 39,2,Christophe MASSON,EELV
 39,3,Laurence BERNIER,PCF
@@ -169,9 +177,10 @@ département,circonscription,nom,affiliation
 41,2,Didier GUENIN
 41,3,Christian GUELLIER,EELV
 42,1,Régis JUANICO
+42,2,Olivier LONGEON,EELV
 42,3,Philippe KIZIRIAN
-42,4,Laurence JUBAN
 42,5,Brigitte DUMOULIN
+42,6,Jean DUVERGER,EELV
 43,1,Fabrice FARISON
 43,2,Josiane MIALON
 44,10,Brigitte HÉRIDEL,EELV
@@ -272,6 +281,7 @@ département,circonscription,nom,affiliation
 62,9,Stéphane SAINT-ANDRÉ,PRG
 63,1,Cécile AUDET
 63,2,Christine PIRES BEAUNE
+63,3,Nicolas BONNET,EELV
 63,4,Sylvie MAISONNET
 63,5,Gérard BETENFELD
 64,1,Jérôme MARBOT
@@ -296,15 +306,18 @@ département,circonscription,nom,affiliation
 68,1,Marie Agnès STRAZEL,UDE
 68,5,Abdellatif TIMDOUINE
 68,6,Pierre PARRA
+69,10,Victor FORNITO,EELV
 69,11,Jules JOASSARD
 69,12,David CHIZAT
 69,13,Françoise BERGAME
 69,14,Adrien DRIOLI
+69,3,Fanny DUBOT,EELV
 69,6,Najat VALLAUD BELKACEM
 69,7,Renaud GAUQUELIN
+69,9,Katia BUISSON,PRG
 70,1,Laurent RICARD
 71,1,Catherine N'DIAYE
-71,2,Laurence BERNIER,PCF
+71,2,Dominique LOTTE,PRG
 71,3,Philippe BAUMEL
 71,4,Cécile UNTERMAIER
 71,5,Christophe SIRUGUE
@@ -315,8 +328,10 @@ département,circonscription,nom,affiliation
 72,5,Samuel CADEAU
 74,1,Christophe PONCET
 74,2,Ghislain LA SPISA
+74,3,Annie COLLINET,EELV
 74,4,Anne FAVRELLE
 74,5,Jean-Baptiste BAUD
+74,6,Jacques VENJEAN,EELV
 75,10,Ryadh SALLEM
 75,1,Pauline VERON
 75,11,Pascal CHERKI
@@ -443,14 +458,14 @@ département,circonscription,nom,affiliation
 93,7,Razzy HAMMADI
 93,8,Elisabeth POCHON
 93,9,Daniel GUIRAUD
-94,10,Jean Luc Laurent,MRC
+94,10,Jean Luc LAURENT,MRC
 94,1,Olivier PLACE
 94,11,Hélène DE COMARMOND
 94,2,Axel URGIN
 94,3,Corinne NARASSIGUIN
 94,4,Zakaria ZAIDANE
 94,5,Caroline ADOMO
-94,6,Laurence Abeille,EELV
+94,6,Laurence ABEILLE,EELV
 94,7,Jean-Jacques UM
 94,8,Sophie GALLAIS
 94,9,Luc CARVOUNAS
@@ -473,6 +488,7 @@ département,circonscription,nom,affiliation
 974,4,Virginie GOBALOU
 974,5,Philippe LE CONSTANT
 974,7,Emmanuel SÉRAPHIN,PLR
+975,1,Annick GIRARDIN,PRG
 976,1,Ramlati ALI
 976,2,Ibrahim ABOUBACAR
 999,1,Yan CHANTREL
