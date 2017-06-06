@@ -39,11 +39,11 @@ département,circonscription,nom,affiliation
 13,10,Vincent COULOMB
 13,1,Gérard OREGGIA
 13,11,Dorian HISPA,EELV
-13,12,Isabelle ROVARINO
-13,13,Lionel JAREMA
-13,14,Jean-David CIOT
+13,12,
+13,13,
+13,14,
 13,15,Cécile MOLL,UDE
-13,16,Nora MEBAREK
+13,16,
 13,2,Annie LEVY-MOZZICONACCI
 13,3,Anne DI MARINO
 13,4,Patrick MENNUCCI
@@ -410,7 +410,6 @@ département,circonscription,nom,affiliation
 85,1,Cécile DREURE
 85,2,Sylviane BULTEAU
 85,3,Anthony PITALIER
-85,4,Claudine GOICHON,EELV
 85,5,Hugues FOURAGE
 86,1,Xavier Moinier
 86,2,Patricia PERSICO
